@@ -1,0 +1,12 @@
+{
+  "name": "Jitbug",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.2.1",
+    "ionic-timepicker": "~0.2.0"
+  },
+  "dependencies": {
+    "ionic-datepicker": "~0.7.0",
+    "angular-local-storage": "~0.2.2"
+  }
+}
